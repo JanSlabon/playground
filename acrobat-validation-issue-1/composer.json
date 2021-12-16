@@ -1,0 +1,11 @@
+{
+    "require": {
+        "setasign/setapdf-signer": "2.38.3.1671"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://www.setasign.com/downloads/"
+        }
+    ]
+}
