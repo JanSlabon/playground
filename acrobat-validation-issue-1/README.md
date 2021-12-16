@@ -42,8 +42,8 @@ as invalid because of treating the change in the indirect object as a not allowe
 Having the Annots array as a direct object, the document is validated absolutely 
 fine: [certified-with-direct-annotation-array.pdf](output/certified-with-direct-annotation-array.pdf)
 
-The only difference between the documents is following structure change. This sturcutre
-does not trigger a "Miscellaneous Change":
+The only difference between the documents is following structure change. This 
+structure does not trigger a "Miscellaneous Change":
 
     1 0 obj
     <</Type/Page/MediaBox[ 0 0 595.28 841.89]/Resources<<>>/Parent 3 0 R/Annots[ 5 0 R]>>
