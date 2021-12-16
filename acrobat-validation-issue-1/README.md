@@ -1,6 +1,6 @@
 # Validation behavior of Acrobat for certification signatures
 
-We trapped into some issues related to validation of certification 
+We ran into some issues related to validation of certification 
 signatures in Acrobat Acrobat Reader (2021.007.20099)
 
 ## A certification signature can be added AFTER an approval signature
